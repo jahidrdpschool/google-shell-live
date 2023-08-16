@@ -41,7 +41,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       ./pc-cloud-shell/multiple-pc.sh
       ```
   3. novnc2: Follow the prompts to enter the number of 2 PC you want to launch.
-  4. novnc2: Cloud Shell Click on: "Access Link 1: [https://localhost:8080](https://shell.cloud.google.com/devshell/proxy?port=8080&environment_id=default&authuser=1)"
+  4. novnc2: Cloud Shell Click on: "Access Link 1: [https://localhost:8001](https://shell.cloud.google.com/devshell/proxy?port=8080&environment_id=default&authuser=1)"
 
 
   ## Step 4: Access and use multiple novnc2
