@@ -28,7 +28,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   ## Step 2: Launch novnc2
 
-  1. novnc2: Go to Google [Cloud Shell](https://shell.cloud.google.com) Tab.
+  1. novnc2: Go to Google [Cloud Shell](https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal&authuser=1) Tab.
 
   ## Step 3: Automate launching multiple novnc2
   1. novnc2: Open a new terminal in Google Cloud Shell.
