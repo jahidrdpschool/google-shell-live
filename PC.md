@@ -45,44 +45,8 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   5. Now Open Main Tab: [https://localhost:8002](https://shell.cloud.google.com/devshell/proxy?port=8002&environment_id=default&authuser=1)
 
 
-  ## Step 4: Access and use multiple novnc2
-  1. Go back to your main Chrome browser.
-  2. This CMD for Link 1 to Link 10.
-  
-
-     [All] (1). novnc2: Go to LXTerminal & Paste on Clipboard & Paste on LXTerminal:
-      ```
-      firefox https://www.youtube.com/playlist?list=UUod4ghzC9jGkBppMWTawDqQ
-
-      ```
-
-     [All] (2). novnc2: Now click on "Play all" then click on "Loop Icon"
-
-
-     All Access Link (Ctrl+Click Link):
-
-      Link 1: [https://shell.cloud.google.com/devshell/proxy?port=8001&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8001&environment_id=default&authuser=1)
-
-      Link 2: [https://shell.cloud.google.com/devshell/proxy?port=8002&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8002&environment_id=default&authuser=1)
-
-      Link 3: [https://shell.cloud.google.com/devshell/proxy?port=8003&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8003&environment_id=default&authuser=1)
-
-      Link 4: [https://shell.cloud.google.com/devshell/proxy?port=8004&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8004&environment_id=default&authuser=1)
-
-      Link 5: [https://shell.cloud.google.com/devshell/proxy?port=8005&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8005&environment_id=default&authuser=1)
-
-      Link 6: [https://shell.cloud.google.com/devshell/proxy?port=8006&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8006&environment_id=default&authuser=1)
-
-      Link 7: [https://shell.cloud.google.com/devshell/proxy?port=8007&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8007&environment_id=default&authuser=1)
-
-      Link 8: [https://shell.cloud.google.com/devshell/proxy?port=8008&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8008&environment_id=default&authuser=1)
-
-      Link 9: [https://shell.cloud.google.com/devshell/proxy?port=8009&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8009&environment_id=default&authuser=1)
-
-      Link 10: [https://shell.cloud.google.com/devshell/proxy?port=8010&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8010&environment_id=default&authuser=1)
-
-      Link 11: [https://shell.cloud.google.com/devshell/proxy?port=8011&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8011&environment_id=default&authuser=1)
-
-
-
-Keep Alive Link: [https://shell.cloud.google.com/devshell/proxy?port=8080&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8080&environment_id=default&authuser=1)
+  ## Step 4: Install OBS Studio
+  1.
+```bash
+sudo apt update
+ ```
