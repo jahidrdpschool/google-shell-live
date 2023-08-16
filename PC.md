@@ -28,11 +28,6 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   ## Step 2: Launch novnc2
 
-  1. novnc2: Go to LXTerminal:
-      ```
-      firefox https://shell.cloud.google.com https://github.com/jahidrdpschool/pc-cloud-shell/blob/main/12-hours-pc-pro.md
-
-      ```
   1. novnc2: Go to Google [Cloud Shell](https://shell.cloud.google.com) Tab.
 
   ## Step 3: Automate launching multiple novnc2
