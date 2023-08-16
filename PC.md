@@ -46,7 +46,11 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
 
   ## Step 4: Install OBS Studio
-  1.
+  1. Go to LXTerminal and CMD:
 ```bash
 sudo apt update
  ```
+2. OBS Studio
+```bash
+sudo apt install obs-studio
+```
