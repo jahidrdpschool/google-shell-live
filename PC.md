@@ -54,3 +54,18 @@ sudo apt update
 ```bash
 sudo apt install obs-studio
 ```
+## Step 5: Install rclone
+  1. Update + install
+```bash
+sudo apt-get update
+sudo apt-get install -y rclone
+```
+  2. Rclone Configuration File Download
+```bash
+wget https://files.jahid.eu.org/1:/MyDrive/Website/Others/rclone.conf
+```
+  3. Drive Folder Sync
+```bash
+mkdir ~/Url2Up
+rclone sync url: ~/Url2Up
+```
