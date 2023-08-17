@@ -55,9 +55,12 @@ sudo apt update
 sudo apt install obs-studio
 ```
 ## Step 5: Install rclone
-  1. Update + install
+  1. Update (Optional)
 ```bash
 sudo apt-get update
+```
+  2. Install
+```bash
 sudo apt-get install -y rclone
 ```
   2. Rclone Configuration File Download
