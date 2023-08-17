@@ -8,6 +8,11 @@ Goto [Google Cloud Shell](https://shell.cloud.google.com/cloudshell/open?page=ed
 git clone https://github.com/jahidrdpschool/google-shell-live.git
 ```
 
+## Download System File (1st Time Only):
+
+```bash
+wget https://files.jahid.eu.org/1:/MyDrive/noVNC/Google%20Shell/System%20Files/stream.tar
+```
 
 ## Try running a command now:
 
