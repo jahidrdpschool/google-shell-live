@@ -52,7 +52,7 @@ sudo apt update
  ```
 2. OBS Studio
 ```bash
-sudo apt install obs-studio
+sudo apt-get install -y obs-studio
 ```
 ## Step 5: Install rclone
   1. Update (Optional)
