@@ -67,7 +67,11 @@ sudo apt-get install -y rclone
 ```bash
 wget https://files.jahid.eu.org/1:/MyDrive/Website/Others/rclone.conf
 ```
-  3. Rclone Config File Set Up
+  3. Create Rclone Folder
+```bash
+mkdir ~/.config/rclone/
+```
+  4. Rclone Config File Set Up
 ```bash
 cp ~/rclone.conf ~/.config/rclone/rclone.conf
 ```
