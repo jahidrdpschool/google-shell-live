@@ -3,7 +3,7 @@ download_and_run() {
   local port=$1
   local index=$2
 
-  docker run -p $port:80 -e RESOLUTION=1400x720 -d stream_pro > /dev/null 2>&1
+  docker run -p $port:80 -e RESOLUTION=1400x720 -d stream_proz > /dev/null 2>&1
   echo ""
   echo "Access Link $index: https://localhost:$port"
   echo ""
