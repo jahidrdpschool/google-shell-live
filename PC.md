@@ -77,5 +77,5 @@ cp ~/rclone.conf ~/.config/rclone/rclone.conf
 ```
   5. Drive Folder Sync
 ```bash
-rclone sync url: ~/Url2Up
+rclone sync url: ~/Desktop/Url2Up
 ```
