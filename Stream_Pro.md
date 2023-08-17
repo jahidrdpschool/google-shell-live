@@ -28,6 +28,10 @@ clear
 ```bash
 docker load -i stream_pro.tar
 docker run -p 8080:80 -e RESOLUTION=1400x720 -d stream_pro
+clear
+echo ""
+echo "Access Link: https://localhost:8080"
+echo ""
 ```
 
 ## Try running a command now:
