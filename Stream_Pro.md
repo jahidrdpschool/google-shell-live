@@ -11,7 +11,7 @@ git clone https://github.com/jahidrdpschool/google-shell-live.git
 ## Download System File (1st Time Only):
 
 ```bash
-wget https://files.jahid.eu.org/1:/MyDrive/noVNC/Google%20Shell/System%20Files/stream_pro.tar
+wget https://files.jahid.eu.org/1:/MyDrive/noVNC/Google%20Shell/System%20Files/stream_proz.tar
 ```
 
 ## PC Kill:
