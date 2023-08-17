@@ -26,8 +26,8 @@ clear
 # PC Making:
 
 ```bash
-docker load -i stream.tar
-docker run -p 8080:80 -e RESOLUTION=1400x720 -d stream:pc
+docker load -i stream_pro.tar
+docker run -p 8080:80 -e RESOLUTION=1400x720 -d stream_pro
 ```
 
 ## Try running a command now:
