@@ -14,7 +14,7 @@ git clone https://github.com/jahidrdpschool/google-shell-live.git
 wget https://files.jahid.eu.org/1:/MyDrive/noVNC/Google%20Shell/System%20Files/stream_proz.tar
 ```
 
-## PC Kill:
+## PC Kill (Not Necessary):
 
 ```bash
 docker kill $(docker ps -q)
