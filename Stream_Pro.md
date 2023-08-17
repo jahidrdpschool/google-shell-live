@@ -14,14 +14,20 @@ git clone https://github.com/jahidrdpschool/google-shell-live.git
 wget https://files.jahid.eu.org/1:/MyDrive/noVNC/Google%20Shell/System%20Files/stream.tar
 ```
 
-## PC Making:
+## PC Kill:
 
 ```bash
 docker kill $(docker ps -q)
 docker rm $(docker ps -a -q)
 docker rmi $(docker images -q)
 clear
+```
+
+# PC Making:
+
+```bash
 docker load -i stream.tar
+docker run -p 8080:80 -e RESOLUTION=1400x720 -d stream:pc
 ```
 
 ## Try running a command now:
