@@ -26,7 +26,7 @@ clear
 # PC Making:
 
 ```bash
-docker load -i stream_pro.tar
+docker load -i stream.tar
 chmod +x google-shell-live/multiple-pc.sh
 ./google-shell-live/multiple-pc.sh
 ```
