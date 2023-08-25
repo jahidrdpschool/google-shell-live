@@ -28,7 +28,7 @@ clear
 ```bash
 docker load -i stream.tar
 chmod +x google-shell-live/multiple-pc.sh
-./google-shell-live/multiple-pc.sh
+./google-shell-live/multiple-pc-obs.sh
 ```
 
 
