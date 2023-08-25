@@ -11,7 +11,7 @@ git clone https://github.com/jahidrdpschool/google-shell-live.git
 ## Download System File (1st Time Only):
 
 ```bash
-wget https://files.jahid.eu.org/1:/MyDrive/noVNC/Google%20Shell/System%20Files/stream-ff.tar
+wget https://files.jahid.eu.org/1:/MyDrive/noVNC/Google%20Shell/System%20Files/stream_ff.tar
 ```
 
 ## PC Kill (Not Necessary):
@@ -26,7 +26,7 @@ clear
 # PC Making:
 
 ```bash
-docker load -i stream-ff.tar
+docker load -i stream_ff.tar
 chmod +x google-shell-live/multiple-pc-ff.sh
 ./google-shell-live/multiple-pc-ff.sh
 ```
