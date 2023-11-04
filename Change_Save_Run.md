@@ -10,7 +10,7 @@ docker ps
 docker commit c78c60d4b09f  stream
 ```
 ```
-docker save -o stream-ff.tar stream
+docker save -o stream.tar stream
 ```
 ```
 docker load -i stream.tar
